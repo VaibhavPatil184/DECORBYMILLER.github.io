@@ -134,21 +134,21 @@
   
   @media (min-width:5px) and (max-width:370px){
     .Sale-p{
-        top: 295%;left: 3%;
+        top: 250%;left: 3%;
     }
     .F1{
-        top: 370%;
+        top: 320%;
     }
     .btnC1-{
         top: 49%;left:5%;
     }
   }
-  @media (min-width:371px) and (max-width:390px){
+  @media (min-width:370px) and (max-width:390px){
     .Sale-p{
-        top: 310%;left: 3%;
+        top: 250%;left: 3%;
     }
     .F1{
-        top: 380%;
+        top: 330%;
     }
     .btnC1-{
         top: 49%;left:5%;
@@ -156,10 +156,10 @@
   }
   @media (min-width:390px) and (max-width:400px){
     .Sale-p{
-        top: 315%;left: 3%;
+        top: 250%;left: 3%;
     }
     .F1{
-        top: 380%;
+        top: 330%;
     }
     .btnC1-{
         top: 49%;left:5%;
@@ -167,10 +167,10 @@
   }
   @media (min-width:400px) and (max-width:420px){
     .Sale-p{
-        top: 320%;left: 3%;
+        top: 260%;left: 3%;
     }
     .F1{
-        top: 385%;
+        top: 330%;
     }
     .btnC1-{
         top: 53%;left:2%;
@@ -178,10 +178,10 @@
   }
   @media (min-width:420px) and (max-width:440px){
     .Sale-p{
-        top: 330%;left: 3%;
+        top: 270%;left: 3%;
     }
     .F1{
-        top: 395%;
+        top: 330%;
     }
     .btnC1-{
         top: 53%;left:2%;
@@ -189,10 +189,10 @@
   }
   @media (min-width:440px) and (max-width:460px){
     .Sale-p{
-        top: 340%;left: 3%;
+        top: 280%;left: 3%;
     }
     .F1{
-        top: 405%;
+        top: 340%;
     }
     .btnC1-{
         top: 55%;left:3%;
@@ -200,10 +200,10 @@
   }
   @media (min-width:460px) and (max-width:480px){
     .Sale-p{
-        top: 350%;left: 3%;
+        top: 290%;left: 3%;
     }
     .F1{
-        top: 415%;
+        top: 340%;
     }
     .btnC1-{
         top: 55%;left:3%;
@@ -211,7 +211,10 @@
   }
   @media (min-width:480px) and (max-width:500px){
     .Sale-p{
-        top: 360%;left: 3%;
+        top: 300%;left: 3%;
+    }
+    .F1{
+        top: 350%;
     }
     .btnC1-{
         top: 55%;left:5%;
@@ -219,42 +222,34 @@
   }
   @media (min-width:500px) and (max-width:525px){
     .Sale-p{
-        top: 410%;left: 3%;
+        top: 340%;left: 3%;
     }
     .F1{
-        top: 480%;
+        top: 390%;
     }
   }
   @media (min-width:525px) and (max-width:546px){
     .Sale-p{
-        top: 420%;left: 3%;
+        top: 350%;left: 3%;
     }
     .F1{
-        top: 490%;
-    }
-  }
-  @media (min-width:525px) and (max-width:546px){
-    .Sale-p{
-        top: 420%;left: 3%;
-    }
-    .F1{
-        top: 490%;
+        top: 410%;
     }
   }
   @media (min-width:546px) and (max-width:575px){
     .Sale-p{
-        top: 430%;left: 3%;
+        top: 360%;left: 3%;
     }
     .F1{
-        top: 620%;
+        top: 510%;
     }
   }
   @media (min-width:575px) and (max-width:768px){
     .Sale-p{
-        top: 430%;left: 3%;
+        top: 370%;left: 3%;
     }
     .F1{
-        top: 620%;
+        top: 520%;
     }
   }
    /* ########################_F1_############################################################################## */
@@ -281,47 +276,47 @@
   @media (min-width:768px) and (max-width:900px){
     .Sale-p{
         position: absolute;
-        top: 225%;left: 3%;
+        top: 200%;left: 3%;
     }
     .F1{
-        top: 420%;left: 0%;
+        top: 360%;left: 0%;
     }
   }
-  @media (min-width:901px) and (max-width:992px){
+  @media (min-width:900px) and (max-width:992px){
     .Sale-p{
         position: absolute;
-        top: 240%;left: 7%;
+        top: 230%;left: 7%;
     }
     .F1{
-        top: 430%;left: 0%;
+        top: 370%;left: 0%;
     }
   }
   @media (min-width:992px) and (max-width:1000px){
     .Sale-p{
         position: absolute;
-        top: 265%;left: 6%;
+        top: 240%;left: 6%;
     }
     .F1{
-        top: 470%;left: 0%;
+        top: 410%;left: 0%;
     
     }
   }
-  @media (min-width:1001px) and (max-width:1440px){
+  @media (min-width:1001px) and (max-width:1024px){
     .Sale-p{
         position: absolute;
         top: 280%;left: 6%;
     }
     .F1{
-        top: 450%;left: 0%;
+        top: 420%;left: 0%;
     }
   }
-  @media (min-width:1440px) and (max-width:2000px){
+  @media (min-width:1024px) and (max-width:2000px){
     .Sale-p{
         position: absolute;
-        top: 290%;left: 6%;
+        top: 270%;left: 6%;
     }
     .F1{
-        top: 500%;left: 0%;
+        top: 420%;left: 0%;
     }
   }
   
